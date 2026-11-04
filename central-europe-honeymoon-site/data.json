@@ -1,0 +1,1181 @@
+{
+  "trip": {
+    "title": "2026 中歐冬季蜜月",
+    "subtitle": "CENTRAL EUROPE · WINTER HONEYMOON",
+    "start": "2026-12-18",
+    "end": "2026-12-31",
+    "version": "V3.1｜交通時間更新 2026/10/29",
+    "source": "完整旅遊手冊 PDF（22 頁）"
+  },
+  "days": [
+    {
+      "id": "day-01",
+      "day": 1,
+      "date": "2026-12-18",
+      "city": "台北 → 布拉格",
+      "english": "Taipei → Prague",
+      "focus": "移動日｜出發台灣",
+      "hotel": "宿機上",
+      "activities": [
+        {
+          "id": "d01-a01",
+          "time": "白天",
+          "title": "最後打包與文件確認",
+          "description": "確認護照、機票、保險、電子文件。",
+          "status": "source",
+          "sourcePage": 6
+        },
+        {
+          "id": "d01-a02",
+          "time": "約 18:00–19:00",
+          "title": "前往桃園機場",
+          "description": "保留機場報到及安檢緩衝。",
+          "status": "source",
+          "sourcePage": 6
+        },
+        {
+          "id": "d01-a03",
+          "time": "21:20",
+          "title": "JX101 台北 → 布拉格",
+          "description": "PDF 標示 12/19 06:05 抵達 Prague。",
+          "status": "source",
+          "sourcePage": 6
+        }
+      ]
+    },
+    {
+      "id": "day-02",
+      "day": 2,
+      "date": "2026-12-19",
+      "city": "布拉格 → 德勒斯登",
+      "english": "Prague → Dresden",
+      "focus": "德勒斯登聖誕市集",
+      "hotel": "德勒斯登",
+      "activities": [
+        {
+          "id": "d02-a01",
+          "time": "06:05",
+          "title": "抵達布拉格機場",
+          "description": "入境、領行李、早餐；搭機場交通進市區。",
+          "status": "source",
+          "sourcePage": 7
+        },
+        {
+          "id": "d02-a02",
+          "time": "上午",
+          "title": "布拉格機場 → Praha hl.n.",
+          "description": "機場快線 Airport Express／市區交通，依現場情況調整。",
+          "status": "source",
+          "sourcePage": 7
+        },
+        {
+          "id": "d02-a03",
+          "time": "12:31–14:49",
+          "title": "RJ 176｜布拉格 → 德勒斯登",
+          "description": "Praha hl.n. → Dresden Hbf；保留轉車與月台確認緩衝。",
+          "status": "source",
+          "sourcePage": 7
+        },
+        {
+          "id": "d02-a04",
+          "time": "下午",
+          "title": "飯店寄放行李／市區散步",
+          "description": "Dresden Altstadt。",
+          "status": "source",
+          "sourcePage": 7
+        },
+        {
+          "id": "d02-a05",
+          "time": "16:30 起",
+          "title": "德勒斯登聖誕市集",
+          "description": "Dresdner Striezelmarkt；PDF 註記 12/24 前營運，需核對官方日期。",
+          "status": "source",
+          "sourcePage": 7
+        },
+        {
+          "id": "d02-a06",
+          "time": "晚上",
+          "title": "晚餐與回飯店",
+          "description": "第一天移動較長，適度休息。",
+          "status": "source",
+          "sourcePage": 7
+        }
+      ]
+    },
+    {
+      "id": "day-03",
+      "day": 3,
+      "date": "2026-12-20",
+      "city": "德勒斯登 → 布拉格",
+      "english": "Dresden → Prague",
+      "focus": "德勒斯登老城與布拉格夜景",
+      "hotel": "布拉格",
+      "activities": [
+        {
+          "id": "d03-a01",
+          "time": "08:30–11:00",
+          "title": "德勒斯登早餐、老城散步",
+          "description": "依當天體力安排。",
+          "status": "source",
+          "sourcePage": 8
+        },
+        {
+          "id": "d03-a02",
+          "time": "中午前後",
+          "title": "德勒斯登午餐／回飯店取行李",
+          "description": "為下午火車預留時間。",
+          "status": "source",
+          "sourcePage": 8
+        },
+        {
+          "id": "d03-a03",
+          "time": "15:10–17:25",
+          "title": "RJ 383｜德勒斯登 → 布拉格",
+          "description": "Dresden Hbf → Praha hl.n.。",
+          "status": "source",
+          "sourcePage": 8
+        },
+        {
+          "id": "d03-a04",
+          "time": "傍晚",
+          "title": "布拉格 Old Town Square",
+          "description": "天文鐘、老城廣場；PDF 提及 2026/11/28–2027/1/6 聖誕市集資訊待官方核對。",
+          "status": "source",
+          "sourcePage": 8
+        },
+        {
+          "id": "d03-a05",
+          "time": "晚上",
+          "title": "晚餐、飯店",
+          "description": "不排過晚，隔天 09:15 出發。",
+          "status": "source",
+          "sourcePage": 8
+        }
+      ]
+    },
+    {
+      "id": "day-04",
+      "day": 4,
+      "date": "2026-12-21",
+      "city": "布拉格 → 庫倫洛夫",
+      "english": "Prague → Český Krumlov",
+      "focus": "中世紀童話小鎮",
+      "hotel": "庫倫洛夫",
+      "activities": [
+        {
+          "id": "d04-a01",
+          "time": "早上",
+          "title": "飯店 → Prague Main Station",
+          "description": "提早到站等候，依票券確認乘車位置。",
+          "status": "source",
+          "sourcePage": 9
+        },
+        {
+          "id": "d04-a02",
+          "time": "09:15–11:40",
+          "title": "FlixBus｜布拉格 → CK",
+          "description": "Prague Main Station → CK bus station；RegioJet 尚未開賣。",
+          "status": "source",
+          "sourcePage": 9
+        },
+        {
+          "id": "d04-a03",
+          "time": "中午",
+          "title": "CK 入住／放行李＋午餐",
+          "description": "抵達後先以步行探索老城。",
+          "status": "source",
+          "sourcePage": 9
+        },
+        {
+          "id": "d04-a04",
+          "time": "下午",
+          "title": "彩繪塔／城堡周邊、Náměstí Svornosti",
+          "description": "以當天日照及開放狀況安排；部分冬季設施可能停開。",
+          "status": "source",
+          "sourcePage": 9
+        },
+        {
+          "id": "d04-a05",
+          "time": "傍晚",
+          "title": "Christmas Market＋夜景",
+          "description": "以官方公告開放資訊為準。",
+          "status": "source",
+          "sourcePage": 9
+        },
+        {
+          "id": "d04-a06",
+          "time": "晚上",
+          "title": "晚餐",
+          "description": "注意石板路及低溫。",
+          "status": "source",
+          "sourcePage": 9
+        }
+      ]
+    },
+    {
+      "id": "day-05",
+      "day": 5,
+      "date": "2026-12-22",
+      "city": "庫倫洛夫",
+      "english": "Český Krumlov",
+      "focus": "城堡、河景與聖誕市集",
+      "hotel": "庫倫洛夫",
+      "activities": [
+        {
+          "id": "d05-a01",
+          "time": "08:30–10:00",
+          "title": "早餐＋河景散步",
+          "description": "冬季留意結冰石板路。",
+          "status": "source",
+          "sourcePage": 10
+        },
+        {
+          "id": "d05-a02",
+          "time": "10:00–12:30",
+          "title": "城堡外觀／庭院 → 彩繪塔",
+          "description": "Cloak Bridge 及景觀點；冬季戶外路線可依天氣調整。",
+          "status": "source",
+          "sourcePage": 10
+        },
+        {
+          "id": "d05-a03",
+          "time": "12:30–14:00",
+          "title": "午餐＋咖啡",
+          "description": "老城區。",
+          "status": "source",
+          "sourcePage": 10
+        },
+        {
+          "id": "d05-a04",
+          "time": "14:00–16:00",
+          "title": "慢拍街景 → 河岸 → 老城散步",
+          "description": "安排小店或室內休息。",
+          "status": "source",
+          "sourcePage": 10
+        },
+        {
+          "id": "d05-a05",
+          "time": "16:00 後",
+          "title": "Christmas Market＋夜景",
+          "description": "注意防寒。",
+          "status": "source",
+          "sourcePage": 10
+        },
+        {
+          "id": "d05-a06",
+          "time": "晚上",
+          "title": "晚餐",
+          "description": "隔天早上 09:35 巴士。",
+          "status": "source",
+          "sourcePage": 10
+        }
+      ]
+    },
+    {
+      "id": "day-06",
+      "day": 6,
+      "date": "2026-12-23",
+      "city": "庫倫洛夫 → 薩爾斯堡",
+      "english": "Český Krumlov → Salzburg",
+      "focus": "抵達薩爾斯堡與聖誕市集",
+      "hotel": "薩爾斯堡",
+      "activities": [
+        {
+          "id": "d06-a01",
+          "time": "早上",
+          "title": "飯店 → CK Bus Station",
+          "description": "提早到站等候。",
+          "status": "source",
+          "sourcePage": 11
+        },
+        {
+          "id": "d06-a02",
+          "time": "09:35–12:50",
+          "title": "FlixBus｜CK → Salzburg South",
+          "description": "抵達 Salzburg South；需再移動至市中心或飯店。",
+          "status": "source",
+          "sourcePage": 11
+        },
+        {
+          "id": "d06-a03",
+          "time": "下午",
+          "title": "入住／放行李、米拉貝爾花園",
+          "description": "Mirabellplatz / Mirabell Gardens。",
+          "status": "source",
+          "sourcePage": 11
+        },
+        {
+          "id": "d06-a04",
+          "time": "傍晚",
+          "title": "海爾布倫宮聖誕市集",
+          "description": "Hellbrunner Adventzauber；PDF 標記 12/23 為重要日期，開放時間請向官方確認。",
+          "status": "source",
+          "sourcePage": 11
+        },
+        {
+          "id": "d06-a05",
+          "time": "晚上",
+          "title": "返回 Salzburg 市中心／晚餐",
+          "description": "依現場交通與時間彈性調整。",
+          "status": "source",
+          "sourcePage": 11
+        }
+      ]
+    },
+    {
+      "id": "day-07",
+      "day": 7,
+      "date": "2026-12-24",
+      "city": "薩爾斯堡",
+      "english": "Salzburg",
+      "focus": "平安夜・米拉貝爾與聖誕晚餐",
+      "hotel": "薩爾斯堡",
+      "activities": [
+        {
+          "id": "d07-a01",
+          "time": "09:00–10:00",
+          "title": "米拉貝爾花園",
+          "description": "Mirabell Palace／花園。",
+          "status": "source",
+          "sourcePage": 12
+        },
+        {
+          "id": "d07-a02",
+          "time": "10:00–12:30",
+          "title": "糧食胡同 → 莫札特廣場 → 主教座堂",
+          "description": "Getreidegasse → Mozartplatz → Domplatz。",
+          "status": "source",
+          "sourcePage": 12
+        },
+        {
+          "id": "d07-a03",
+          "time": "12:30–14:30",
+          "title": "薩爾斯堡主教座堂聖誕市集",
+          "description": "Salzburg Christkindlmarkt；PDF 註記 12/24 營業至 15:00，須官方核對。",
+          "status": "source",
+          "sourcePage": 12
+        },
+        {
+          "id": "d07-a04",
+          "time": "下午",
+          "title": "霍亨薩爾斯堡要塞／散步",
+          "description": "Hohensalzburg Fortress，依開放與體力調整。",
+          "status": "source",
+          "sourcePage": 12
+        },
+        {
+          "id": "d07-a05",
+          "time": "傍晚",
+          "title": "回飯店休息／準備",
+          "description": "聖誕夜商家可能提早打烊。",
+          "status": "source",
+          "sourcePage": 12
+        },
+        {
+          "id": "d07-a06",
+          "time": "晚上",
+          "title": "Christmas Eve Dinner",
+          "description": "建議預先訂位。",
+          "status": "source",
+          "sourcePage": 12
+        }
+      ]
+    },
+    {
+      "id": "day-08",
+      "day": 8,
+      "date": "2026-12-25",
+      "city": "薩爾斯堡 → 哈修塔特",
+      "english": "Salzburg → Hallstatt",
+      "focus": "湖畔入住與聖誕節",
+      "hotel": "哈修塔特",
+      "activities": [
+        {
+          "id": "d08-a01",
+          "time": "08:00 左右",
+          "title": "Salzburg Hbf 報到與搭車準備",
+          "description": "預留月台、早餐及行李緩衝。",
+          "status": "source",
+          "sourcePage": 13
+        },
+        {
+          "id": "d08-a02",
+          "time": "08:11–10:24",
+          "title": "IC 547 + REX 70｜前往 Hallstatt Bahnhof",
+          "description": "Attnang-Puchheim 轉車一次；到站後需渡船進村。",
+          "status": "source",
+          "sourcePage": 13
+        },
+        {
+          "id": "d08-a03",
+          "time": "上午/中午",
+          "title": "Hallstatt Bahnhof → Hallstatt Markt",
+          "description": "渡船班次待 2026/27 新版時刻表確認。",
+          "status": "source",
+          "sourcePage": 13
+        },
+        {
+          "id": "d08-a04",
+          "time": "中午",
+          "title": "飯店寄放行李＋午餐",
+          "description": "需考慮抵達時間與入住手續。",
+          "status": "source",
+          "sourcePage": 13
+        },
+        {
+          "id": "d08-a05",
+          "time": "下午",
+          "title": "湖畔步道＋小鎮＋教堂",
+          "description": "天候許可再安排戶外攝影。",
+          "status": "source",
+          "sourcePage": 13
+        },
+        {
+          "id": "d08-a06",
+          "time": "16:00 後",
+          "title": "湖畔＋夜景＋晚餐",
+          "description": "避免寒冷下停留太久。",
+          "status": "source",
+          "sourcePage": 13
+        }
+      ]
+    },
+    {
+      "id": "day-09",
+      "day": 9,
+      "date": "2026-12-26",
+      "city": "哈修塔特 → 維也納",
+      "english": "Hallstatt → Vienna",
+      "focus": "維也納市政廳聖誕市集",
+      "hotel": "維也納",
+      "activities": [
+        {
+          "id": "d09-a01",
+          "time": "07:30–09:00",
+          "title": "Hallstatt 湖畔清晨＋早餐",
+          "description": "最後一天留意渡船與火車銜接。",
+          "status": "source",
+          "sourcePage": 14
+        },
+        {
+          "id": "d09-a02",
+          "time": "09:00–10:00",
+          "title": "退房 → Hallstatt Markt 碼頭",
+          "description": "PDF 原日程的概略區間與 08:31 火車衝突，請查看時間提醒。",
+          "status": "source",
+          "sourcePage": 14
+        },
+        {
+          "id": "d09-a03",
+          "time": "08:31–12:03",
+          "title": "REX 70 + IC 549｜前往 Wien Hbf",
+          "description": "Attnang-Puchheim 轉車一次；需先搭船至 Hallstatt Bahnhof，渡船時間待確認。",
+          "status": "source",
+          "sourcePage": 14
+        },
+        {
+          "id": "d09-a04",
+          "time": "下午",
+          "title": "Wien Hbf 入住／放行李 → 市區",
+          "description": "為市中心交通預留彈性。",
+          "status": "source",
+          "sourcePage": 14
+        },
+        {
+          "id": "d09-a05",
+          "time": "傍晚–晚上",
+          "title": "維也納市政廳聖誕市集",
+          "description": "Vienna Rathausplatz；PDF 註記 12/26 最後一天 10:00–22:00，須官方核對。",
+          "status": "source",
+          "sourcePage": 14
+        },
+        {
+          "id": "d09-a06",
+          "time": "晚上",
+          "title": "晚餐／回飯店",
+          "description": "保留休息時間。",
+          "status": "source",
+          "sourcePage": 14
+        }
+      ]
+    },
+    {
+      "id": "day-10",
+      "day": 10,
+      "date": "2026-12-27",
+      "city": "維也納 → 布達佩斯",
+      "english": "Vienna → Budapest",
+      "focus": "熊布朗宮與布達佩斯夜景",
+      "hotel": "布達佩斯",
+      "activities": [
+        {
+          "id": "d10-a01",
+          "time": "上午",
+          "title": "熊布朗宮＋聖誕市集",
+          "description": "Schönbrunn Palace + Christmas Market；PDF 標示 12/26–1/6 09:00–19:00，需再核對。",
+          "status": "source",
+          "sourcePage": 15
+        },
+        {
+          "id": "d10-a02",
+          "time": "中午",
+          "title": "飯店取行李／午餐",
+          "description": "預留前往 Wien Hbf 的時間。",
+          "status": "source",
+          "sourcePage": 15
+        },
+        {
+          "id": "d10-a03",
+          "time": "13:40–16:35",
+          "title": "RJX 63｜維也納 → 布達佩斯",
+          "description": "Wien Hbf → Budapest-Keleti，直達。",
+          "status": "source",
+          "sourcePage": 15
+        },
+        {
+          "id": "d10-a04",
+          "time": "傍晚",
+          "title": "飯店入住 → 聖伊什特萬聖殿",
+          "description": "St. Stephen’s Basilica，依體力及營業時間彈性調整。",
+          "status": "source",
+          "sourcePage": 15
+        },
+        {
+          "id": "d10-a05",
+          "time": "晚上",
+          "title": "Advent Basilica／晚餐",
+          "description": "觀賞布達佩斯夜景。",
+          "status": "source",
+          "sourcePage": 15
+        }
+      ]
+    },
+    {
+      "id": "day-11",
+      "day": 11,
+      "date": "2026-12-28",
+      "city": "布達佩斯",
+      "english": "Budapest",
+      "focus": "城堡山・中央市場・夜景遊船",
+      "hotel": "布達佩斯",
+      "activities": [
+        {
+          "id": "d11-a01",
+          "time": "上午",
+          "title": "布達城堡／Matthias Church／漁人堡",
+          "description": "Buda Castle、Matthias Church、Fisherman’s Bastion。",
+          "status": "source",
+          "sourcePage": 16
+        },
+        {
+          "id": "d11-a02",
+          "time": "中午",
+          "title": "中央市場午餐",
+          "description": "Central Market Hall；PDF 提醒不可視為已確認營業。",
+          "status": "source",
+          "sourcePage": 16
+        },
+        {
+          "id": "d11-a03",
+          "time": "下午",
+          "title": "猶太區與市區",
+          "description": "Rudas Thermal Bath 可依當日情況替代。",
+          "status": "source",
+          "sourcePage": 16
+        },
+        {
+          "id": "d11-a04",
+          "time": "傍晚",
+          "title": "晚餐",
+          "description": "避免行程過滿。",
+          "status": "source",
+          "sourcePage": 16
+        },
+        {
+          "id": "d11-a05",
+          "time": "晚上",
+          "title": "多瑙河夜景遊船（Optional）",
+          "description": "Danube Night Cruise；若尚未訂票請查看天氣與水況，非必要行程。",
+          "status": "source",
+          "sourcePage": 16
+        }
+      ]
+    },
+    {
+      "id": "day-12",
+      "day": 12,
+      "date": "2026-12-29",
+      "city": "布達佩斯 → 布拉格（夜車）",
+      "english": "Budapest → Prague",
+      "focus": "國會大廈・夜車移動",
+      "hotel": "夜車（Private Double Sleeper）",
+      "activities": [
+        {
+          "id": "d12-a01",
+          "time": "上午",
+          "title": "匈牙利國會大廈外觀／河岸",
+          "description": "Hungarian Parliament；沿岸散步。",
+          "status": "source",
+          "sourcePage": 17
+        },
+        {
+          "id": "d12-a02",
+          "time": "中午",
+          "title": "午餐",
+          "description": "彈性安排。",
+          "status": "source",
+          "sourcePage": 17
+        },
+        {
+          "id": "d12-a03",
+          "time": "下午",
+          "title": "聖伊什特萬聖殿／市中心／聖誕市集",
+          "description": "保留購物及補給時間。",
+          "status": "source",
+          "sourcePage": 17
+        },
+        {
+          "id": "d12-a04",
+          "time": "17:00 左右",
+          "title": "回飯店取行李＋前往車站",
+          "description": "交通及月台請在車票確認後安排。",
+          "status": "source",
+          "sourcePage": 17
+        },
+        {
+          "id": "d12-a05",
+          "time": "約提前 60 分",
+          "title": "抵達 Budapest-Nyugati",
+          "description": "夜車出發時間尚待 2026/27 新版時刻表，務必核對。",
+          "status": "source",
+          "sourcePage": 17
+        },
+        {
+          "id": "d12-a06",
+          "time": "待確認",
+          "title": "Metropol EuroNight｜Budapest → Prague",
+          "description": "只訂 Private Double Sleeper，不以 couchette 取代；次日到達時間待確認。",
+          "status": "source",
+          "sourcePage": 17
+        }
+      ]
+    },
+    {
+      "id": "day-13",
+      "day": 13,
+      "date": "2026-12-30",
+      "city": "布拉格",
+      "english": "Prague",
+      "focus": "查理大橋・老城・自由行",
+      "hotel": "布拉格",
+      "activities": [
+        {
+          "id": "d13-a01",
+          "time": "08:00–09:00",
+          "title": "夜車抵達 Praha hl.n.（暫估）",
+          "description": "以正式夜車車票及時刻為準，非已確認到站時間。",
+          "status": "source",
+          "sourcePage": 19
+        },
+        {
+          "id": "d13-a02",
+          "time": "上午",
+          "title": "行李寄放 → Prague Castle／小城區",
+          "description": "可選 Prague Castle；也可先休息。",
+          "status": "source",
+          "sourcePage": 19
+        },
+        {
+          "id": "d13-a03",
+          "time": "上午–下午",
+          "title": "小城區午餐 → 查理大橋",
+          "description": "Malá Strana → Charles Bridge。",
+          "status": "source",
+          "sourcePage": 19
+        },
+        {
+          "id": "d13-a04",
+          "time": "下午",
+          "title": "Optional｜博物館／咖啡館／河岸",
+          "description": "依疲勞程度調整。",
+          "status": "source",
+          "sourcePage": 19
+        },
+        {
+          "id": "d13-a05",
+          "time": "傍晚",
+          "title": "Optional｜伏爾塔瓦河遊船",
+          "description": "Vltava River Cruise，未確認訂票。",
+          "status": "source",
+          "sourcePage": 19
+        },
+        {
+          "id": "d13-a06",
+          "time": "晚上",
+          "title": "Old Town／Wenceslas Square",
+          "description": "老城／瓦茨拉夫廣場、回飯店。",
+          "status": "source",
+          "sourcePage": 19
+        }
+      ]
+    },
+    {
+      "id": "day-14",
+      "day": 14,
+      "date": "2026-12-31",
+      "city": "布拉格 → 台北",
+      "english": "Prague → Taipei",
+      "focus": "返程日",
+      "hotel": "宿機上",
+      "activities": [
+        {
+          "id": "d14-a01",
+          "time": "01:00–06:30",
+          "title": "收拾行李／退房準備",
+          "description": "PDF 原日程另有 07:00 出發描述，時間需核對。",
+          "status": "source",
+          "sourcePage": 20
+        },
+        {
+          "id": "d14-a02",
+          "time": "約 07:00",
+          "title": "前往 Václav Havel Airport Prague",
+          "description": "Taxi／Airport Express，依實際交通規劃。",
+          "status": "source",
+          "sourcePage": 20
+        },
+        {
+          "id": "d14-a03",
+          "time": "08:00–10:00",
+          "title": "機場報到／托運／安檢",
+          "description": "預留 2–3 小時。",
+          "status": "source",
+          "sourcePage": 20
+        },
+        {
+          "id": "d14-a04",
+          "time": "10:55",
+          "title": "JX102 Prague → Taipei",
+          "description": "返台航班；依最終機票資訊確認。",
+          "status": "source",
+          "sourcePage": 20
+        }
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "id": "tr-1",
+      "date": "2026-12-19",
+      "origin": "Praha hl.n.",
+      "destination": "Dresden Hbf",
+      "service": "RJ 176",
+      "departure": "12:31",
+      "arrival": "14:49",
+      "priceEurTwoPeople": "39.98",
+      "originalBookingStatus": "待確認",
+      "notice": "DB Super Sparpreis；航班延誤可考慮 FlixBus Plan B",
+      "sourcePage": 4
+    },
+    {
+      "id": "tr-2",
+      "date": "2026-12-20",
+      "origin": "Dresden Hbf",
+      "destination": "Praha hl.n.",
+      "service": "RJ 383",
+      "departure": "15:10",
+      "arrival": "17:25",
+      "priceEurTwoPeople": "35.98",
+      "originalBookingStatus": "待確認",
+      "notice": "DB Super Sparpreis；保留 Dresden 白天",
+      "sourcePage": 4
+    },
+    {
+      "id": "tr-3",
+      "date": "2026-12-21",
+      "origin": "Prague Main Station",
+      "destination": "CK bus station",
+      "service": "FlixBus 直達",
+      "departure": "09:15",
+      "arrival": "11:40",
+      "priceEurTwoPeople": "38.98",
+      "originalBookingStatus": "待確認",
+      "notice": "RegioJet 尚未開賣，暫以 FlixBus 為基準",
+      "sourcePage": 4
+    },
+    {
+      "id": "tr-4",
+      "date": "2026-12-23",
+      "origin": "CK bus station",
+      "destination": "Salzburg South",
+      "service": "FlixBus 直達",
+      "departure": "09:35",
+      "arrival": "12:50",
+      "priceEurTwoPeople": "45.98",
+      "originalBookingStatus": "待確認",
+      "notice": "抵達 Salzburg South，需轉往市區",
+      "sourcePage": 4
+    },
+    {
+      "id": "tr-5",
+      "date": "2026-12-25",
+      "origin": "Salzburg Hbf",
+      "destination": "Hallstatt Bahnhof",
+      "service": "IC 547 + REX 70",
+      "departure": "08:11",
+      "arrival": "10:24",
+      "priceEurTwoPeople": "19.80",
+      "originalBookingStatus": "待確認",
+      "notice": "Attnang-Puchheim 轉車一次；到站搭船進村",
+      "sourcePage": 4
+    },
+    {
+      "id": "tr-6",
+      "date": "2026-12-26",
+      "origin": "Hallstatt Bahnhof",
+      "destination": "Wien Hbf",
+      "service": "REX 70 + IC 549",
+      "departure": "08:31",
+      "arrival": "12:03",
+      "priceEurTwoPeople": "24.90",
+      "originalBookingStatus": "待確認",
+      "notice": "Attnang-Puchheim 轉車一次；渡船時刻待確認",
+      "sourcePage": 4
+    },
+    {
+      "id": "tr-7",
+      "date": "2026-12-27",
+      "origin": "Wien Hbf",
+      "destination": "Budapest-Keleti",
+      "service": "RJX 63",
+      "departure": "13:40",
+      "arrival": "16:35",
+      "priceEurTwoPeople": "105.40",
+      "originalBookingStatus": "待確認",
+      "notice": "維也納上午保留；直達布達佩斯",
+      "sourcePage": 4
+    },
+    {
+      "id": "tr-8",
+      "date": "2026-12-29",
+      "origin": "Budapest-Nyugati",
+      "destination": "Praha hl.n.",
+      "service": "Metropol EuroNight",
+      "departure": "待確認",
+      "arrival": "待確認",
+      "priceEurTwoPeople": null,
+      "originalBookingStatus": "待開賣",
+      "notice": "待 2026/27 新時刻與開賣；僅 Private Double Sleeper",
+      "sourcePage": 4
+    }
+  ],
+  "accommodations": [
+    {
+      "id": "h-1",
+      "checkIn": "2026-12-19",
+      "checkOut": "2026-12-20",
+      "city": "德勒斯登",
+      "area": "Prager Straße／Altmarkt Edge",
+      "name": "飯店待補",
+      "originalBookingStatus": "待確認",
+      "sourcePage": 5
+    },
+    {
+      "id": "h-2",
+      "checkIn": "2026-12-20",
+      "checkOut": "2026-12-21",
+      "city": "布拉格",
+      "area": "Praha hl.n.／Hybernská／Senovážné náměstí",
+      "name": "飯店待補",
+      "originalBookingStatus": "待確認",
+      "sourcePage": 5
+    },
+    {
+      "id": "h-3",
+      "checkIn": "2026-12-21",
+      "checkOut": "2026-12-23",
+      "city": "庫倫洛夫",
+      "area": "巴士站／P1／P2／P5 步行範圍",
+      "name": "飯店待補",
+      "originalBookingStatus": "待確認",
+      "sourcePage": 5
+    },
+    {
+      "id": "h-4",
+      "checkIn": "2026-12-23",
+      "checkOut": "2026-12-25",
+      "city": "薩爾斯堡",
+      "area": "Mirabell／Hbf／Elisabeth-Vorstadt",
+      "name": "飯店待補",
+      "originalBookingStatus": "待確認",
+      "sourcePage": 5
+    },
+    {
+      "id": "h-5",
+      "checkIn": "2026-12-25",
+      "checkOut": "2026-12-26",
+      "city": "哈修塔特",
+      "area": "Hallstatt Markt（湖畔區域）",
+      "name": "飯店待補",
+      "originalBookingStatus": "待確認",
+      "sourcePage": 5
+    },
+    {
+      "id": "h-6",
+      "checkIn": "2026-12-26",
+      "checkOut": "2026-12-27",
+      "city": "維也納",
+      "area": "Wien Hbf → Belvedere 區域",
+      "name": "飯店待補",
+      "originalBookingStatus": "待確認",
+      "sourcePage": 5
+    },
+    {
+      "id": "h-7",
+      "checkIn": "2026-12-27",
+      "checkOut": "2026-12-29",
+      "city": "布達佩斯",
+      "area": "第五區／交通便利區域",
+      "name": "飯店待補",
+      "originalBookingStatus": "待確認",
+      "sourcePage": 5
+    },
+    {
+      "id": "h-8",
+      "checkIn": "2026-12-29",
+      "checkOut": "2026-12-30",
+      "city": "夜車",
+      "area": "Metropol EuroNight",
+      "name": "Private Double Sleeper（待訂）",
+      "originalBookingStatus": "待確認",
+      "sourcePage": 5
+    },
+    {
+      "id": "h-9",
+      "checkIn": "2026-12-30",
+      "checkOut": "2026-12-31",
+      "city": "布拉格",
+      "area": "New Town／Praha hl.n.",
+      "name": "飯店待補",
+      "originalBookingStatus": "待確認",
+      "sourcePage": 5
+    }
+  ],
+  "alternatives": {
+    "1": [
+      "航班延誤時，Dresden 交通需改 Plan B，前往市區方式依抵達狀況。",
+      "Dresden 下半天改旅館休息，視體力調整。"
+    ],
+    "2": [
+      "雨雪：改室內博物館、咖啡館並縮短戶外市集時間。"
+    ],
+    "3": [
+      "大雪：先確認 Dresden → Prague 鐵路班次，取消部分布拉格晚間行程。"
+    ],
+    "4": [
+      "夜晚大雪：縮短 CK 坡道及景觀點路線。"
+    ],
+    "5": [
+      "大雨／雪：改城堡外觀、老城室內小店、咖啡館。"
+    ],
+    "6": [
+      "Hellbrunn 停開時：改老城與室內行程，注意市集開放時段。"
+    ],
+    "7": [
+      "雨／小雪：改老城、咖啡館或博物館。",
+      "大雪／濕冷：Residenz／Mozart Museum；晚餐需確認是否營業。"
+    ],
+    "8": [
+      "交通正常＋小雪：照原定計畫，注意步行安全。",
+      "下雪／停船／延誤：保留等待時間，確認最新渡船班次。",
+      "鐵路／渡船重大中斷：先核對官方現況再調整住宿與交通。"
+    ],
+    "9": [
+      "天氣惡劣／交通延誤：減少 Hallstatt 湖畔停留，保留 Vienna 市集。",
+      "Hallstatt 渡船停航：先核對替代交通，勿假設能準時趕上火車。",
+      "列車延誤：抵達 Vienna 後以 Rathausplatz 為重點。"
+    ],
+    "10": [
+      "天氣穩定：Schönbrunn＋Budapest 市中心。",
+      "大雨：Schönbrunn 室內比重增加，Budapest 晚上減少戶外行程。"
+    ],
+    "11": [
+      "晚間小雪：Buda Castle＋Rudas＋夜景。",
+      "大雨：Central Market Hall／咖啡館＋Rudas；Buda 戶外縮短。",
+      "晚風／濃霧：夜景遊船可取消或挪動，依訂票政策處理。"
+    ],
+    "12": [
+      "一部天氣：河岸改室內及補給。",
+      "Budapest 大雨／強風：減少河岸步行；夜車資訊優先。",
+      "夜車異常：先確認營運資訊與替代交通；不自行改動原計畫。"
+    ],
+    "13": [
+      "夜車準點＋天氣穩定：城堡 → Malá Strana → Charles Bridge。",
+      "夜車晚到：縮短至老城小區散步；遊船取消。",
+      "大雨／結冰：改室內咖啡館、博物館與休息。"
+    ],
+    "14": [
+      "一切天氣：以準時抵達機場為首要目標。",
+      "積雪／道路延誤：提早交通安排，避免緊迫轉乘。"
+    ]
+  },
+  "checklists": [
+    {
+      "id": "check-1",
+      "group": "30 天前",
+      "text": "確認所有旅館／車票及登機相關資料",
+      "priority": "高"
+    },
+    {
+      "id": "check-2",
+      "group": "30 天前",
+      "text": "12/24 Christmas Eve Dinner 預訂或確認餐廳",
+      "priority": "高"
+    },
+    {
+      "id": "check-3",
+      "group": "30 天前",
+      "text": "確認 12/25 Hallstatt 渡船與 12/26 離村時刻",
+      "priority": "高"
+    },
+    {
+      "id": "check-4",
+      "group": "30 天前",
+      "text": "確認 Metropol EuroNight 只訂 Private Double Sleeper",
+      "priority": "高"
+    },
+    {
+      "id": "check-5",
+      "group": "30 天前",
+      "text": "檢查旅遊保險、證件與電子備份",
+      "priority": "高"
+    },
+    {
+      "id": "check-6",
+      "group": "7 天前",
+      "text": "確認重要市集營運與冬季開放日期",
+      "priority": "中"
+    },
+    {
+      "id": "check-7",
+      "group": "7 天前",
+      "text": "查 Dresden／Prague／CK／Salzburg／Hallstatt／Vienna／Budapest 天氣預報",
+      "priority": "中"
+    },
+    {
+      "id": "check-8",
+      "group": "7 天前",
+      "text": "確認 Christmas Eve／Christmas Day 餐廳備案",
+      "priority": "高"
+    },
+    {
+      "id": "check-9",
+      "group": "7 天前",
+      "text": "下載離線地圖與儲存所有購票憑證",
+      "priority": "高"
+    },
+    {
+      "id": "check-10",
+      "group": "7 天前",
+      "text": "確認住宿與城市間交通車站／登車位置",
+      "priority": "高"
+    },
+    {
+      "id": "check-11",
+      "group": "48 小時",
+      "text": "確認各段鐵路及跨境巴士營運、發車位置",
+      "priority": "高"
+    },
+    {
+      "id": "check-12",
+      "group": "48 小時",
+      "text": "檢查 12/25–26 Hallstatt 渡船及 ÖBB 最新資訊",
+      "priority": "高"
+    },
+    {
+      "id": "check-13",
+      "group": "48 小時",
+      "text": "確認夜車車次、臥鋪及開行狀況",
+      "priority": "高"
+    },
+    {
+      "id": "check-14",
+      "group": "48 小時",
+      "text": "確認 12/31 機場交通及機票報到時間",
+      "priority": "高"
+    },
+    {
+      "id": "check-15",
+      "group": "48 小時",
+      "text": "護照、信用卡、eSIM、充電器及保暖用品隨身攜帶",
+      "priority": "中"
+    }
+  ],
+  "alerts": [
+    {
+      "id": "warning-1226",
+      "day": 9,
+      "level": "高",
+      "title": "12/26 原日程存在時間衝突",
+      "text": "日程表寫 07:30–09:00 清晨漫步、09:00–10:00 退房前往碼頭，但交通基準表指定 08:31 由 Hallstatt Bahnhof 發車。需先確認渡船、退房與實際出發順序，不應照兩者同時執行。"
+    },
+    {
+      "id": "warning-1229",
+      "day": 12,
+      "level": "高",
+      "title": "12/29 夜車班次未確認",
+      "text": "Metropol EuroNight 尚待 2026/27 時刻與開賣，僅接受 Private Double Sleeper。"
+    },
+    {
+      "id": "warning-1230",
+      "day": 13,
+      "level": "中",
+      "title": "12/30 夜車到站時間非確認值",
+      "text": "每日行程列 08:00–09:00 作為估計；以前一晚確定車票為準。"
+    },
+    {
+      "id": "warning-price",
+      "level": "中",
+      "title": "票價與訂票狀態以 PDF 2026/10/29 版本為準",
+      "text": "EUR 金額為文件記載兩人目前價，不能視為即時售價或已完成購票。"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Dresdner Striezelmarkt",
+      "url": "https://striezelmarkt.dresden.de/"
+    },
+    {
+      "name": "Hellbrunner Adventzauber",
+      "url": "https://www.hellbrunneradventzauber.at/"
+    },
+    {
+      "name": "Salzburg Christkindlmarkt",
+      "url": "https://christkindlmarkt.co.at/"
+    },
+    {
+      "name": "Hallstatt 交通",
+      "url": "https://www.hallstatt.net/"
+    },
+    {
+      "name": "Hallstatt 渡船",
+      "url": "https://hallstattschifffahrt.at/"
+    },
+    {
+      "name": "ÖBB",
+      "url": "https://www.oebb.at/"
+    },
+    {
+      "name": "Vienna Rathausplatz",
+      "url": "https://www.wien.info/"
+    },
+    {
+      "name": "Metropol EuroNight",
+      "url": "https://www.mavcsoport.hu/"
+    },
+    {
+      "name": "Prague 聖誕市集",
+      "url": "https://prague.eu/"
+    }
+  ]
+}
